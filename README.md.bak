@@ -1,6 +1,6 @@
-# DEMO GIT REPSO
+# DEMO GIT REPO
 This is the first file in the repo
 
-#Website COntents
+#Website Contents
 1. index.html
 
